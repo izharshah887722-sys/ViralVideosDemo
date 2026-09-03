@@ -1,3 +1,4 @@
+minhal Malik 
 # 🎬 Viral Videos Demo
 
 A cross-platform mobile application built with .NET MAUI 9.0 that leverages AI to create viral video content using Azure OpenAI's SORA and LLM services.
